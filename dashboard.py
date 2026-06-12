@@ -10,9 +10,10 @@ import plotly.graph_objects as go
 import streamlit as st
 import pydeck as pdk
 import subprocess
-import psutil
+
 from fpdf import FPDF
 from datetime import datetime
+
 API_URL = "https://soc-intelligent-production.up.railway.app"
 # Fix Windows encoding
 sys.stdout.reconfigure(encoding='utf-8')
