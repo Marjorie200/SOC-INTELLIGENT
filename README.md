@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ CyberShield SOC (V3 Ultimate)
 **AI-Powered Security Operations Center & Intrusion Prevention System (IPS)**
 
@@ -95,3 +96,7 @@ L'IA bloquant activement les IP malveillantes dans votre pare-feu, vous pouvez r
 
 ---
 *Projet d'Intelligence Artificielle appliquée à la Cybersécurité.*
+=======
+# SOC-INTELLIGENT
+CyberShield est un Centre Opérationnel de Sécurité (SOC) de nouvelle génération. Il fusionne l'apprentissage automatique (Machine Learning), l'apprentissage profond (Deep Learning) et l'IA générative pour créer un système de Détection et Prévention d'Intrusion (IDPS) 100% autonome
+>>>>>>> 8425e37b31be43ca1b89d23e1ace9620ddf6b391
